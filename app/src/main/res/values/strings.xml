@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Watchlist</string>
+    <string name="Homepage">Homepage</string>
+    <string name="Films_Page">Films Page</string>
+    <string name="Series_Page">Series Page</string>
+    <string name="Watchlist_Page">Watchlist Page</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <string name="menu">Menu</string>
+    <string name="popular_films">Popular Films</string>
+    <string name="top_rated_films">Top Rated Films</string>
+    <string name="popular_series">Popular Series</string>
+    <string name="top_rated_series">Top Rated Series</string>
+    <string name="recently_added">Recently Added to Watchlist</string>
+    <string name="error_fetch_films">Error: Failed to fetch Films</string>
+    <string name="title_activity_registration">registration</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="register">Register</string>
+    <string name="login">Log In</string>
+
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string-array name="media_select">
+        <item>Films</item>
+        <item>Series</item>
+    </string-array>
+
+    <string-array name="watchlist_type">
+        <item>Want To Watch</item>
+        <item>Watched</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

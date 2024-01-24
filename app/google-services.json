@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096496445114",
+    "project_id": "watchlist-ecf69",
+    "storage_bucket": "watchlist-ecf69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096496445114:android:7acfccbd5036617d05b483",
+        "android_client_info": {
+          "package_name": "com.example.watchlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOqGUyNt15WxhtcdSjL8AAslS_kAPflU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
